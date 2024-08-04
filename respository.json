@@ -1,0 +1,15 @@
+[
+    {
+        "name"        : "unguard-eat",
+        "project_url" : "https://github.com/Cracked5pider/unguard-eat",
+        "categories"  : ["evasion", "kaine"],
+        "version"     : "0.1",
+        "license"     : "",
+        "description" : "havoc kaine plugin to mitigate PAGE_GUARD protected image headers using JOP gadgets",
+        "readme_path" : "Readme.md",
+        "author"      : {
+            "name"    : "5pider",
+            "url"     : "https://x.com/C5pider"
+        }
+    }
+]
